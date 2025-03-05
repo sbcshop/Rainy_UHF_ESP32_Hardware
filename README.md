@@ -1,6 +1,6 @@
 # Rainy_UHF_ESP32_Hardware
 
-<!-- <img src="" -->
+<img src="https://github.com/sbcshop/Rainy_UHF_ESP32_Software/blob/main/images/feature_banner.jpg" width="" height=""> 
 
 This GitHub repository contains Rainy UHF ESP32 hardware design files. 
 
